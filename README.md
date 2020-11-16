@@ -4,7 +4,7 @@ Sou desenvolvedor front-end apaixonado por desenvolvimento web, atualmente estud
 
 ### Estudos
 
-* Bootcamp Rocketseat Gostack 11 - 2020
+* Bootcamp Rocketseat Gostack 11 - 2020 - 2021
 * Ensino Técnico - Desenvolvedor web fullstack 2020 - 2022
 * Ensino Técnico - Produção e Design para Web - SENAC - 2018
 
