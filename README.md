@@ -8,6 +8,16 @@ Sou desenvolvedor front-end apaixonado por desenvolvimento web, atualmente estud
 * Ensino Técnico - Desenvolvedor web fullstack 2020 - 2022
 * Ensino Técnico - Produção e Design para Web - SENAC - 2018
 
+### Tecnologias
+
+* Html
+* Css
+* Javascript
+* ReactJS
+* Styled components
+* Wordpress
+* GulpJS
+
 ### Redes sociais e contatos
 
 * [Linkedin](https://www.linkedin.com/in/hugo-costa-597760177/)
