@@ -1,4 +1,4 @@
-# Olá me chamo Hugo mendonça :wave:
+# Olá me chamo Hugo Mendonça :wave:
 
 Sou desenvolvedor front-end apaixonado por desenvolvimento web, atualmente estudando para se tornar um desenvolvedor fullstack, com reactjs, react native e nodejs.
 
