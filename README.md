@@ -1,6 +1,6 @@
 # Olá me chamo Hugo mendonça :wave:
 
-Sou desenvolvedor frontend apaixonado por desenvolvimento web, atualmente estudando para se tornar um desenvolvedor full stack, com reactjs, react native e nodejs.
+Sou desenvolvedor front-end apaixonado por desenvolvimento web, atualmente estudando para se tornar um desenvolvedor fullstack, com reactjs, react native e nodejs.
 
 ### Estudos
 
