@@ -6,6 +6,6 @@ Sou desenvolvedor front-end apaixonado por desenvolvimento web, atualmente estud
 
 * [Linkedin](https://www.linkedin.com/in/hugo-costa-597760177/)
 * [Twitter](https://twitter.com/hugo_mendonca9)
-* [Email](mailto:contato@hugomendonca.net)
-* [Website](https://hugomendonca.net)
+* [E-mail](mailto:contato@hugomendonca.net)
+* [Portfólio](https://hugomendonca.net)
 
