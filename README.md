@@ -24,12 +24,8 @@ Sou desenvolvedor full stack apaixonado por desenvolvimento web, stack principal
 
 ### Redes sociais e contatos
 
-<a href="https://www.hugomendonca.net"><img alt="Hugo Mendonça Dev" src="https://img.shields.io/badge/-WWW.HUGOMENDONCA.NET-%232f9c95"/></a>
-
 <a href="contato@hugomendonca.net"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-
 <a href="https://www.linkedin.com/in/hugo-costa-597760177/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 <a href="https://twitter.com/hugo_mendonca9"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.hugomendonca.net"><img alt="Hugo Mendonça Dev" src="https://img.shields.io/badge/-WWW.HUGOMENDONCA.NET-%232f9c95"/></a>
 
