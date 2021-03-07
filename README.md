@@ -2,7 +2,7 @@
 
 <h1>Olá, me chamo Hugo Mendonça<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="40px" style="max-width:100%;"></h1>
 
-Sou desenvolvedor front-end apaixonado por desenvolvimento web, atualmente estudando para se tornar um desenvolvedor fullstack, com reactjs, react native e nodejs.
+Sou desenvolvedor full stack apaixonado por desenvolvimento web, stack principal para projetos React, React Native e NodeJs.
 
 ### Habilidades
 
