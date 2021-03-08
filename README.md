@@ -22,7 +22,7 @@ Sou desenvolvedor full stack apaixonado por desenvolvimento web, stack principal
 ![GITHUB](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
 
-### Redes sociais e contatos
+### Redes sociais & Contatos
 
 <a href="mailto:contato@hugomendonca.net"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hugo-costa-597760177/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
