@@ -11,6 +11,6 @@ Sou desenvolvedor full stack junior apaixonado por desenvolvimento web, stack pr
 
 ### Contatos
 
-<a href="mailto:contato@hugomendonca.net"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:hugomendonca9@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hugo-costa-597760177/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
