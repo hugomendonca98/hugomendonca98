@@ -11,7 +11,7 @@ Sou desenvolvedor full stack junior apaixonado por desenvolvimento web, stack pr
 
  [Javascript](https://github.com/airbnb/javascript) - [Typescript](https://github.com/microsoft/TypeScript) - [React](https://github.com/facebook/react) - [React Native](https://github.com/facebook/react-native) - [Node](https://github.com/nodejs/node) - [Express](https://github.com/expressjs/express) - [TypeOrm](https://github.com/typeorm/typeorm)
 
-<img align="right" height="175em" src="https://github-readme-stats.vercel.app/api?username=hugomendonca98&show_icons=true&theme=dracula" />
+<img align="right" height="173em" src="https://github-readme-stats.vercel.app/api?username=hugomendonca98&show_icons=true&theme=dracula" />
 
-<img align="left" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomendonca98&hide=java,objective-c&layout=compact&theme=dracula"/>
+<img align="left" height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomendonca98&hide=java,objective-c&layout=compact&theme=dracula"/>
 
