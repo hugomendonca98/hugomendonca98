@@ -13,5 +13,5 @@ Sou desenvolvedor full stack junior apaixonado por desenvolvimento web, stack pr
 
 <img align="right" height="173em" src="https://github-readme-stats.vercel.app/api?username=hugomendonca98&show_icons=true&theme=dracula" />
 
-<img align="left" height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomendonca98&hide=java,objective-c&layout=compact&theme=dracula"/>
+<img align="left" height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomendonca98&hide=java,objective-c, less&layout=compact&theme=dracula"/>
 
