@@ -11,12 +11,14 @@ Sou desenvolvedor Front End apaixonado por desenvolvimento web, stack principal 
 
  [Javascript](https://github.com/airbnb/javascript) - [Typescript](https://github.com/microsoft/TypeScript) - [React](https://github.com/facebook/react) - [React Native](https://github.com/facebook/react-native) - [Node](https://github.com/nodejs/node) - [Express](https://github.com/expressjs/express) - [TypeOrm](https://github.com/typeorm/typeorm)
  
+<div display="flex" flex-wrap="wrap">
 <a href="https://github.com/hugomendonca98/hugomendonca98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugomendonca98&show_icons=true&theme=tokyonight" />
+  <img align="center" height="173em" src="https://github-readme-stats.vercel.app/api?username=hugomendonca98&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/hugomendonca98/hugomendonca98">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomendonca98&hide=objective-c,less&layout=compact&theme=tokyonight&&exclude_repo=E_commerce_node,LoginCreateUser-node-ejs" />
 </a>
+</div>
 
 
 
