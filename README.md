@@ -2,9 +2,7 @@
 
 <h1>Olá, me chamo Hugo Mendonça</h1>
 
-Desenvolvedor Front-End com conhecimentos de javascript, typescript, react, next, node, html e css.
-Estou em busca do primeiro emprego em uma empresa na área de desenvolvimento web, pois já realizei a
-projetos pessoais e freelancers com as tecnologias citadas.
+Sou um apaixonado Desenvolvedor Front-End com ampla experiência em tecnologias modernas, como JavaScript, TypeScript, React, Next.js, Node.js, HTML e CSS. Minha paixão pelo desenvolvimento web impulsiona-me a criar interfaces elegantes, interativas e responsivas, proporcionando experiências memoráveis aos usuários. Com um olhar atento aos detalhes, busco sempre utilizar as melhores práticas de codificação para garantir a manutenibilidade e escalabilidade de meus projetos. Estou constantemente em busca de aprimorar minhas habilidades e adotar novas tecnologias, a fim de permanecer na vanguarda do desenvolvimento web. Seja trabalhando em projetos desafiadores ou colaborando em equipe, estou entusiasmado em criar soluções inovadoras que tornem a web um lugar mais sofisticado e funcional para todos.
 
 <a href="mailto:hugomendonca9@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hugo-mendon%C3%A7a-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
