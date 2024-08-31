@@ -13,7 +13,7 @@ Desenvolvedor Front-End com ampla experiência em JavaScript, TypeScript, React,
  
 <div display="flex" flex-wrap="wrap">
 <a href="https://github.com/hugomendonca98/hugomendonca98">
-  <img align="center" height="173em" src="https://github-readme-stats.vercel.app/api?username=hugomendonca98&show_icons=true&theme=tokyonight" />
+  <img align="center" height="173em" src="https://github-readme-stats.vercel.app/api?username=hugomendonca98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/hugomendonca98/hugomendonca98">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomendonca98&hide=objective-c,less&layout=compact&theme=tokyonight&&exclude_repo=E_commerce_node,LoginCreateUser-node-ejs" />
