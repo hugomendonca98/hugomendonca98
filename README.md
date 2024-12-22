@@ -9,7 +9,7 @@ Desenvolvedor Front-End com ampla experiência em JavaScript, TypeScript, React,
 
 ### Linguagens & Frameworks
 
- [Javascript](https://github.com/airbnb/javascript) - [Typescript](https://github.com/microsoft/TypeScript) - [React](https://github.com/facebook/react) - [Next.js](https://github.com/vercel/next.js) - [React Native](https://github.com/facebook/react-native) - [Node](https://github.com/nodejs/node)
+ [Javascript](https://github.com/airbnb/javascript) - [Typescript](https://github.com/microsoft/TypeScript) - [React](https://github.com/facebook/react) - [Next](https://github.com/vercel/next.js) - [React Native](https://github.com/facebook/react-native) - [Node](https://github.com/nodejs/node)
  
 <div display="flex" flex-wrap="wrap">
 <a href="https://github.com/hugomendonca98/hugomendonca98">
